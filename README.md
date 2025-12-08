@@ -8,6 +8,13 @@ En este perfil encontrarás tanto **proyectos académicos destacados** como **ej
 
 ---
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
 ## 🚀 Proyectos académicos destacados
 
 - **[Mapa Colaborativo de Espacios Accesibles](https://github.com/ferogv/accesible-map)**  
@@ -50,3 +57,8 @@ En este perfil encontrarás tanto **proyectos académicos destacados** como **ej
 - Mejores prácticas de QA y DevSecOps.  
 
 ---
+
+## 📈 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferogv&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferogv&layout=compact&theme=dark)
