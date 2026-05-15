@@ -1,63 +1,63 @@
-# 👋 Hola, soy Fernando
+## 👋 Hola, soy Fernando
 
-🎓 Ingeniero en Desarrollo de Software —  Egresado de la Universidad Tecmilenio  
-💻 Desarrollador full-stack y académico en ciencia de datos  
+🎓 Ingeniero en Desarrollo de Software — Egresado de la Universidad Tecmilenio  
+💻 Desarrollador Fullstack · TypeScript · React · Laravel · DevSecOps  
+📍 Ciudad de México
 
-Me apasiona crear aplicaciones útiles y reproducibles, integrando buenas prácticas de desarrollo, seguridad y DevOps.  
-En este perfil encontrarás tanto **proyectos académicos destacados** como **ejercicios prácticos** que reflejan mi aprendizaje progresivo en Laravel, Vue, Java y más.
+Me apasiona construir aplicaciones útiles e integrando buenas prácticas 
+de desarrollo, seguridad y CI/CD. En este perfil encontrarás proyectos 
+profesionales y académicos que reflejan mi evolución en distintas tecnologías.
 
----
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-## 🚀 Proyectos académicos destacados
+## 🚀 Proyectos destacados
 
-- **[Mapa Colaborativo de Espacios Accesibles](https://github.com/ferogv/accesible-map)**  
-  Aplicación web colaborativa que permite registrar y consultar espacios públicos con características de accesibilidad.  
-  Tecnologías: HTML, CSS, JavaScript, Leaflet.js, Firebase, CI/CD con GitHub Actions, métricas con Looker Studio.  
-  Incluye prácticas de telemetría, monitoreo y DevSecOps.
+### Adaptive Machinery Hours App *(privado — disponible a solicitud)*
+Aplicación web para gestión de horas de maquinaria, contratos, boletas 
+y mantenimiento con notificaciones vía WhatsApp.  
+**Stack:** TypeScript, React, Supabase, PLpgSQL, Vercel, Figma  
+**Características:** autenticación por roles, pipeline CI/CD, Edge Functions, 
+tests unitarios con Vitest y E2E con Playwright.
 
-- **[Halcón Web Application](https://github.com/ferogv/halcon-app)**  
-  Backend en Laravel para gestión de órdenes en una distribuidora de materiales de construcción.  
-  Implementa modelos, migraciones, controladores, seeders y Blade views.  
-  Funcionalidades: CRUD de usuarios y órdenes, flujo de estados, evidencia fotográfica, soft deletes y restauración.
+### [Mapa Colaborativo de Espacios Accesibles](https://github.com/ferogv/accesible-map)
+Aplicación web colaborativa para registro y consulta de espacios públicos accesibles.  
+**Stack:** JavaScript, Leaflet.js, Firebase, GitHub Actions, Looker Studio  
+**Características:** CI/CD automatizado, telemetría, monitoreo y prácticas de DevSecOps.
 
----
+### [Halcón Web Application](https://github.com/ferogv/halcon-app)
+Backend en Laravel para gestión de órdenes en una distribuidora de materiales 
+de construcción.  
+**Stack:** Laravel 7, PHP, MySQL, Blade  
+**Características:** RBAC, flujo de estados, evidencia fotográfica, soft deletes.
 
-## 📂 Ejercicios y prácticas
-
-- **Superheroes CRUD** — Laravel 7 con almacenamiento de fotos y soft deletes.  
-- **Activity 9** — Autenticación y seguridad en Laravel.  
-- **Robotics School Platform** — Modelado de base de datos con Eloquent y ER diagramas.  
-- **ChuckJokesVue** — App Vue 3 con grid responsivo y tema oscuro.  
-- **Menus (Blade)** — Ejercicio de layouts y herencia en Laravel.  
-- **Sistema de administración de citas (Java)** — Gestión de doctores, pacientes y citas con control de acceso.  
-
-> ⚡ Nota: Estos repositorios son ejercicios académicos que muestran mi progreso en distintas tecnologías.
-
----
-
-## 🛠️ Tecnologías
-
-- **Backend:** Laravel, PHP, MySQL  
-- **Frontend:** Vue.js, Blade, Bootstrap  
-- **Data Science:** Python, NLP pipelines en Colab  
-- **Otros:** Java, C#, QA/testing, DevOps, seguridad WiFi  
+### [Sistema de Administración de Citas](https://github.com/ferogv/admin-citas)
+Sistema de gestión clínica en Java con control de acceso diferenciado por rol.  
+**Stack:** Java  
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🛠️ Stack técnico
 
-- React y Django para ampliar mi stack full-stack.  
-- Mejores prácticas de QA y DevSecOps.  
+| Área | Tecnologías |
+|---|---|
+| Lenguajes | TypeScript, JavaScript, Python, PHP, Java, C# |
+| Frontend | React, Vue.js, HTML5, CSS3 |
+| Backend | Node.js, Laravel, Django |
+| Bases de datos | MySQL, MongoDB, Firebase, Supabase |
+| DevOps / CI/CD | GitHub Actions, Git |
+| Herramientas | Figma, Zoho CRM, Looker Studio |
+| Metodologías | Scrum · Gestión de Proyectos Predictiva (PMI) |
 
 ---
 
 ## 📈 Estadísticas
 
-![Metrics](./metrics.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferogv&show_icons=true&theme=default)
