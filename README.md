@@ -52,7 +52,7 @@ Sistema de gestión clínica en Java con control de acceso diferenciado por rol.
 | Frontend | React, Vue.js, HTML5, CSS3 |
 | Backend | Node.js, Laravel, Django |
 | Bases de datos | MySQL, MongoDB, Firebase, Supabase |
-| DevOps / CI-CD | GitHub Actions, Git |
+| DevOps / CI/CD | GitHub Actions, Git |
 | Herramientas | Figma, Zoho CRM, Looker Studio |
 | Metodologías | Scrum · Gestión de Proyectos Predictiva (PMI) |
 
